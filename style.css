@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+body {
+	background-color: #EEBF45; 
+	font-family: 'Patrick Hand', cursive;
+}
+
+h1 {
+	/*letter-spacing: 3px;*/
+	text-align: center;
+	font-size: 65px;
+}
+
+p {
+	font-size: 40px;
+}
+
+.dogs_img {
+	width: 70%;
+	margin: 10px;
+}
+#box {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+ol {
+	list-style-type: none;
+}
